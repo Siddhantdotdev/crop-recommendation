@@ -7,6 +7,7 @@ This guide contains **20 high-yield viva questions and concise, confident answer
 
 ### Q1: What is the main objective of this project?
 **Answer:**  
+
 The objective is to assist farmers in precision agriculture by recommending the optimal crop to cultivate based on seven soil and environmental parameters: Nitrogen ($N$), Phosphorus ($P$), Potassium ($K$), Soil $pH$, Temperature, Relative Humidity, and Rainfall. This replaces traditional guesswork, maximizing agricultural yield and preventing soil nutrient depletion.
 
 ---
